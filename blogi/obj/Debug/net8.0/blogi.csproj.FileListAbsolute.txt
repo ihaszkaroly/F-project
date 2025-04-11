@@ -1,0 +1,7 @@
+C:\Users\kroly\Desktop\ZH\fsharp\blogi\blogi\blogi\obj\Debug\net8.0\blogi.csproj.AssemblyReference.cache
+C:\Users\kroly\Desktop\ZH\fsharp\blogi\blogi\blogi\obj\Debug\net8.0\blogi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kroly\Desktop\ZH\fsharp\blogi\blogi\blogi\obj\Debug\net8.0\blogi.AssemblyInfoInputs.cache
+C:\Users\kroly\Desktop\ZH\fsharp\blogi\blogi\blogi\obj\Debug\net8.0\blogi.AssemblyInfo.cs
+C:\Users\kroly\Desktop\ZH\fsharp\blogi\blogi\blogi\obj\Debug\net8.0\blogi.csproj.CoreCompileInputs.cache
+C:\Users\kroly\Desktop\ZH\fsharp\blogi\blogi\blogi\obj\Debug\net8.0\blogi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kroly\Desktop\ZH\fsharp\blogi\blogi\blogi\obj\Debug\net8.0\blogi.MvcApplicationPartsAssemblyInfo.cache
